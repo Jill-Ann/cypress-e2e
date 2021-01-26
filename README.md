@@ -1,2 +1,2 @@
 # cypress-e2e
-End to End testing with Cypress
+end-to-end testing with Cypress
